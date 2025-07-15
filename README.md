@@ -59,7 +59,7 @@ venv\Scripts\activate      # On Windows
 # Install dependencies
 pip install -r requirements.txt
 
-
+```
 Run the Jupyter Notebook:
 
 ```bash
