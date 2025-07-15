@@ -58,3 +58,56 @@ venv\Scripts\activate      # On Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+
+Run the Jupyter Notebook:
+
+```bash
+jupyter notebook DM_Project_Dengue-Pred_v-2.ipynb
+
+## 📊 Visualizations (Check the Project Report for better understanding)
+
+- 📌 **Correlation heatmaps**
+- 📌 **Actual vs. predicted plots** for each city
+- 📌 **Scatter plots & interactive Plotly comparisons**
+- 📌 **Feature importance charts**
+
+---
+
+## 🚀 Applications
+
+- 🧭 **Early warning systems** for dengue outbreaks.
+- 🏥 **Public health resource planning** in tropical regions.
+- 📌 **Policy design** for vector-borne disease prevention.
+
+---
+
+## 🔍 Limitations & Future Work
+
+- ⚠️ No test labels due to competition rules → final validation limited.
+- ⚠️ Missing real-world factors like population movement, socioeconomic data.
+
+✅ **Future improvements:**
+- Incorporate satellite & vector surveillance data.
+- Apply time-aware cross-validation.
+- Test deep learning (LSTM/TCN) for sequence modeling.
+- Develop live web dashboards for real-time forecasting.
+
+---
+
+## 👨‍💻 Author
+
+**Md. Shahidul Islam Prodhan**  
+Green University of Bangladesh  
+_B.Sc. in CSE — Data Mining Lab Project (Spring 2025)_
+
+---
+
+## 📜 References
+
+- [DrivenData DengAI Competition](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+- [XGBoost Paper](https://arxiv.org/abs/1603.02754)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Pandas Documentation](https://pandas.pydata.org/)
+
+---
